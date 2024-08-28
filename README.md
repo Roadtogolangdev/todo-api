@@ -53,7 +53,11 @@ connect := "user=postgres password=12345 dbname=basa sslmode=disable"
 Метод: DELETE /tasks/{id}
 ![Screenshot_36](https://github.com/user-attachments/assets/274fc558-dc0e-43c4-adda-330f15e18c6c)
 
+### Общая информация
+- Проект сделан примерно за 4-5 часов
+- Материал для выполнения: курс «Backend-разработчик на Go» от Skillfactory, ютуб.
+- Потерял около 30-40 минут из за невнимательности с конфигурацией sql.init файла, из за этого не появлялась таблица "tasks"
+- Было ненмого непонятно с докер файлом, нужно больше практики.
 
 
-Лицензия
-Этот проект лицензирован под MIT License.
+MIT License.
